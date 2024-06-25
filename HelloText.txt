@@ -1,2 +1,7 @@
 hello!!! GIT World
 git test
+<<<<<<< HEAD
+test mainch mainch
+=======
+test main
+>>>>>>> main
