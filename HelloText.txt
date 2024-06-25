@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hello!!! GIT World
-=======
-hello!!! GIT World
-git test
->>>>>>> 57a2655c741f6a87590be1c2d1821194e7ebabce
+TEST AAA ttttt
